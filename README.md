@@ -1,4 +1,4 @@
-# dl85-eperimental-utils
+# DL8.5 experimental utils
 
 This package was constructed to enable easy experimentation with the pydl8.5 package, especially the version that allows for Quantile Regression, that package is available here [pydl8.5](https://github.com/valentinlemaire/pydl8.5.git).
 
